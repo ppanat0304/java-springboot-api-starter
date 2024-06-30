@@ -1,3 +1,4 @@
+
 -- Step 1: Create Schema (if not using the default schema)
 CREATE SCHEMA IF NOT EXISTS myapp;
 
